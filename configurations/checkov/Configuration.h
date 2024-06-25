@@ -120,11 +120,11 @@
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Sulu"
+#define CUSTOM_MACHINE_NAME "Checkov"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
-#define MACHINE_UUID "72172a41-fd82-47cd-8cea-c1d3a02a42c5"
+#define MACHINE_UUID "4b129966-771f-4a48-a94b-6eb0af6ae04e"
 
 // @section stepper drivers
 
@@ -3407,7 +3407,7 @@
 //
 //#define DWIN_CREALITY_LCD           // Creality UI
 #define DWIN_LCD_PROUI              // Pro UI by MRiscoC
-#define TJC_DISPLAY
+#define DACAI_DISPLAY
 #define USE_STOCK_DWIN_SET
 
 // Professional firmware features:
